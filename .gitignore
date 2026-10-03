@@ -1,0 +1,7 @@
+venv/**
+!venv/
+!venv/main.py
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
